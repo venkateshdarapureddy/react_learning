@@ -19,6 +19,13 @@ function App() {
           Learn React
         </a> */}
      <Button text="click" bgcolor="primary" btn_link="solid"/>
+     <Button text="click" bgcolor="secondary" btn_link="solid"/>
+     <Button text="click" bgcolor="white" btn_link="solid"/>
+     <Button text="click" bgcolor="black" btn_link="solid"/>
+     <Button text="click" bgcolor="primary" btn_link="outline"/>
+     <Button text="click" bgcolor="secondary" btn_link="outline"/>
+     <Button text="click" bgcolor="white" btn_link="outline"/>
+     <Button text="click" bgcolor="black" btn_link="outline"/>
       </header>
     </div>
   );
@@ -26,4 +33,4 @@ function App() {
 
 
 
-export default App;
+export default App; 
